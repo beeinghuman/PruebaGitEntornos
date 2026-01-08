@@ -2,6 +2,6 @@
 public class PruebaPrueba {
 public static void main(String[] args) {
 	System.out.print("Me mato");
-	System.out.print("HOLAAA");
+	System.out.print("Despues de navidad");
 }
 }
